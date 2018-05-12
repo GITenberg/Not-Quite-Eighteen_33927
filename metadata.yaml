@@ -1,0 +1,35 @@
+_repo: Not-Quite-Eighteen_33927
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33927-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coolidge, Susan
+    alias: Woolsey, Sarah Chauncey
+    birthdate: 1835
+    deathdate: 1905
+    gutenberg_agent_id: '1508'
+    url: http://www.gutenberg.org/2009/agents/1508
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
+description: ''
+gutenberg_issued: '2010-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: How Bunny brought good luck -- A bit of wilfulness -- The wolves
+  of St. Gervas -- Three little candles -- Uncle and aunt -- The corn-ball money --
+  The prize girl of the harnessing class -- Dolly Phone -- A nursery tyrant -- What
+  the pink flamingo did -- Two pairs of eyes -- The pony that kept the store -- Pink
+  and scarlet -- Dolly's lesson -- A blessing in disguise -- A granted wish.
+title: Not Quite Eighteen
+url: http://www.gutenberg.org/ebooks/33927
