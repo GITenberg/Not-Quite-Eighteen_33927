@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1508
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Chauncey_Woolsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33927#Not-Quite-Eighteen
 gutenberg_issued: '2010-10-14'
 gutenberg_type: Text
 identifiers:
